@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "addons-linter": "^0.28.2",
-    "ajv": "^5.1.1",
+    "ajv": "^6.12.3",
     "clipboardy": "^1.1.4",
     "doctoc": "^1.3.0",
     "eslint": "^4.7.2",
