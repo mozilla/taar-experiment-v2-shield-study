@@ -44,8 +44,8 @@
     "nsp": "^2.8.1",
     "onchange": "^3.2.1",
     "path": "^0.12.7",
-    "selenium-webdriver": "^3.5.0",
-    "shield-studies-addon-utils": "^4.1.0"
+    "selenium-webdriver": "^4.8.2",
+    "shield-studies-addon-utils": "^6.0.0"
   },
   "engines": {
     "node": ">=8.9.0"
